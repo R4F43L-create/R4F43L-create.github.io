@@ -1,5 +1,3 @@
-# R4F43L-create.github.io
-
 # Rafael Perez
 
 ## Junior Data Analyst | Background in Technical Simulation & Visual Effects
